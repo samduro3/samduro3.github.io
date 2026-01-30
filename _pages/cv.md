@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Personal Information"
+permalink: https://samduro3.github.io/PersonalInformation
 author_profile: true
 redirect_from:
   - /resume
