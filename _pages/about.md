@@ -1,18 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello Visitors! My name is Samuel Oduro and I am in my 3rd year of studing computer engineering
+Hello Visitors! My name is Samuel Oduro and I am in my 3rd year student at Virginia Tech majoring in the computer engineering section of controls, robotics, and autonomy. My interests include embedded systems, robotics, and machine learning. I plan to pursue a role in the future that combines these elements as the intersection between robotics and machine learing will continue to grow due to the recent growth of LLM's. 
 
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+You can read more about my personal infromation within the perseonal information tab above.
 
 
