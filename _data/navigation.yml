@@ -10,7 +10,7 @@
 main:
     
   - title: "Personal Information"
-    url: /cv/
+    url: /personalInformation/
     
   # - title: "CV"
   #   url: /cv-json/
