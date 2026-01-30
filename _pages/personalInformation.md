@@ -4,7 +4,7 @@ title: "Personal Information"
 permalink: /personalInformation/
 ---
 
-Welcome to my personal information page. As stated on the home page I am a 3rd year student at Virginia Tech, but here I will share a little more about myself. I grew up in Woodbridge, VA and have lived there since I was 6 years old. I have been always interested in computers and engineering as a whole. In middle school I was in a program called VA STAR where we refurbished old computers which we donated back to the community. In high school I participated in my school's 4 year computer science program which gave me a good foundation on basic programming that gave me a head start when I entered college. After graduation I hope to be in a role that combines robotics and embedded systems programming.
+Welcome to my personal information page. I gave a breif introduction of myself in the homepage, and here I will expand upon my journey in engineering. I grew up in Woodbridge, VA and have lived there since I was 6 years old. I have been always interested in computers and engineering as a whole. In middle school I was in a program called VA STAR where we refurbished old computers which we donated back to the community. In high school I participated in my school's 4 year computer science program. This program gave me a good foundation on basic programming which gave me a headstart once I entered college. After graduation I hope to be in a role that combines robotics and embedded systems programming.
 
 
 
@@ -34,7 +34,6 @@ Automatic Blood Pressure Cuff
 -	Designed and tested a blood pressure cuff with the goal of providing accurate readings within a 5% allowable error range.
 -	Co-designed hardware and software subsystems, including analog filter design and microcontroller integration.
 -	Created clear and organized presentations and weekly reports to document project milestones and findings.
-
 
 Skills
 -----
